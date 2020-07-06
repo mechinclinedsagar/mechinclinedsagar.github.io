@@ -4,15 +4,16 @@ a {
   }
 
   a:hover {
-    color: red; /* set the text color to red here */
+    color: blue; /* set the text color to red here */
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
   }
 
   body {
-    background-image: url(https://images.unsplash.com/photo-1573451444472-7b0b275ab824?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80);
+    background-image: url(https://cdn.improb.com/wp-content/uploads/2018/08/best-mechanical-watches-for-men.jpg);
     background-color: beige; /* set the background color here */
     color:white; /* set the text color to black here */
-    font-family: Arial, Helvetica, sans-serif; /* set the font here */
+    font-family:  sans-serif; /* set the font here */
+
     text-align: center; /* set the text alignment here */
    }
 
