@@ -1,5 +1,5 @@
 a {
-    color:white; /* set the text color to blue here */
+    color: white; /* set the text color to blue here */
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
   }
 
@@ -7,12 +7,16 @@ a {
     color: blue; /* set the text color to red here */
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
   }
+/* 
+  img{
+    opacity: 0.5;
+  } */
 
   body {
-    background-image: url(https://cdn.improb.com/wp-content/uploads/2018/08/best-mechanical-watches-for-men.jpg);
+    background-image: url(https://wallpaperhd.wiki/wp-content/uploads/hd-backgrounds-universe-35857977-universe-wallpaper.jpg);
     background-color: beige; /* set the background color here */
     color:white; /* set the text color to black here */
-    font-family:  sans-serif; /* set the font here */
+    font-family: 'Courier New', Courier, monospace; /* set the font here */
 
     text-align: center; /* set the text alignment here */
    }
