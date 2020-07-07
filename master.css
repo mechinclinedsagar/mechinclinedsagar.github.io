@@ -13,7 +13,7 @@ a {
   } */
 
   body {
-    background-image: url(images/wall.jpg);
+    background-image: url(wall.jpg);
     background-color: beige; /* set the background color here */
     color:white; /* set the text color to black here */
     font-family: 'Courier New', Courier, monospace; /* set the font here */
