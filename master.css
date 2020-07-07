@@ -13,7 +13,7 @@ a {
   } */
 
   body {
-    background-image: url(https://wallpaperhd.wiki/wp-content/uploads/hd-backgrounds-universe-35857977-universe-wallpaper.jpg);
+    background-image: url(images/wall.jpg);
     background-color: beige; /* set the background color here */
     color:white; /* set the text color to black here */
     font-family: 'Courier New', Courier, monospace; /* set the font here */
@@ -61,5 +61,5 @@ a {
   ul {
     display: table;
     margin: 0 auto;
-    text-align: left;
+    text-align: center;
   }
